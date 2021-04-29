@@ -1,0 +1,16 @@
+.button {
+  padding: 16px 12px;
+  background-color: cadetblue;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  transition: 0.3s all;
+  cursor: pointer;
+}
+
+.button:hover {
+  box-shadow: 11px 10px 64px -1px rgba(0, 0, 0, 0.22);
+  -webkit-box-shadow: 11px 10px 64px -1px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 11px 10px 64px -1px rgba(0, 0, 0, 0.22);
+}
